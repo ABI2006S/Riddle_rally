@@ -94,21 +94,22 @@ Accepted answers: keyboard, KEYBOARD, computer keyboard
 
 Clone this repo:
 
-git clone https://github.com/ABI2006S/riddle-rally.git
-cd riddle-rally
+    git clone https://github.com/ABI2006S/riddle-rally.git
+    
+    cd riddle-rally
 
 
 Install dependencies:
 
-npm install
+     npm install
 
 Start development server:
 
-npm run dev
+    npm run dev
 
 Open in browser:
 
-http://localhost:3000
+    http://localhost:3000
 
 🏆 Credits
 
